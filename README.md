@@ -1,4 +1,5 @@
-
+Hello 👋
+--
  My name is Ayush Choudhary
  --
 I am a  Artificial Intelligence & Machine Learning Student  in Chadigarh University
@@ -27,7 +28,7 @@ Passionate about Technology & Innovation
 -
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayush9805&theme=react&hide_border=true) 
 -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush9805)](https://github.com/ayush9805/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush9805&theme=radical)](https://github.com/ayush9805/github-readme-stats)
 -
 
 
