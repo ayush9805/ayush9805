@@ -29,6 +29,6 @@ Passionate about Technology & Innovation
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush9805)](https://github.com/ayush9805/github-readme-stats)
 -
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=ayush9805&theme=react-dark&hide_border=true)
 
-Powered by [GitHub](https://github.com/). Designed by Ayush Choudhary.
+
+Powered by [GitHub](https://github.com/ayush9805). Designed by Ayush Choudhary.
