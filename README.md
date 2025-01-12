@@ -23,7 +23,7 @@ Passionate about Technology & Innovation
 <img src="https://img.icons8.com/ios-filled/50/4a90e2/graph.png" width="40" height="40" /> GitHub Stats
 ----------------------------------------------------------------------------------------
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush9805&theme=react&hide_border=true&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush9805&show_icons=true&theme=radical) 
 -
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayush9805&theme=react&hide_border=true) 
 -
