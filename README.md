@@ -27,7 +27,7 @@ Passionate about Technology & Innovation
 -
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayush9805&theme=react&hide_border=true) 
 -
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush9805&theme=react&layout=compact&hide_border=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush9805)](https://github.com/ayush9805/github-readme-stats)
 -
 ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=ayush9805&theme=react-dark&hide_border=true)
 
